@@ -1,0 +1,94 @@
+mtllib 529.mtl
+o 529
+v -35 95 10
+v -35 101 6
+v -33 98 2
+v -33 94 3
+v -27 95 10
+v -27 101 6
+v -29 98 2
+v -29 94 3
+v -34 90 -19
+v -34 85 -17
+v -33 93 -2
+v -33 96 -5
+v -28 90 -19
+v -28 85 -17
+v -29 93 -2
+v -29 96 -5
+vn -489 183 -103
+vn -242 -641 -44
+vn -489 -134 301
+vn -247 529 -4
+vn 245 268 -438
+vn 488 -280 104
+vn 243 -383 408
+vn 488 323 130
+vn -512 -157 315
+vn -256 637 226
+vn -512 208 -146
+vn -256 -486 191
+vn 256 -288 668
+vn 512 304 94
+vn 256 439 -251
+vn 512 -255 76
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 2
+
+usemtl m4
+f 2 5 6
+
+usemtl m5
+f 2 6 7
+
+usemtl m6
+f 2 7 3
+
+usemtl m7
+f 6 5 8
+
+usemtl m8
+f 6 8 7
+
+usemtl m9
+f 5 4 8
+
+usemtl m10
+f 9 10 11
+
+usemtl m11
+f 9 11 12
+
+usemtl m12
+f 9 12 13
+
+usemtl m13
+f 9 13 10
+
+usemtl m14
+f 10 13 14
+
+usemtl m15
+f 10 14 15
+
+usemtl m16
+f 10 15 11
+
+usemtl m17
+f 14 13 16
+
+usemtl m18
+f 14 16 15
+
+usemtl m19
+f 13 12 16
+

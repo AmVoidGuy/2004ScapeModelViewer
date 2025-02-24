@@ -1,0 +1,204 @@
+newmtl m0
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m1
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m2
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m3
+map_Kd textures/thatched.png
+newmtl m4
+map_Kd textures/thatched.png
+newmtl m5
+map_Kd textures/thatched.png
+newmtl m6
+map_Kd textures/thatched.png
+newmtl m7
+map_Kd textures/thatched.png
+newmtl m8
+map_Kd textures/thatched.png
+newmtl m9
+map_Kd textures/thatched.png
+newmtl m10
+map_Kd textures/thatched.png
+newmtl m11
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m12
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m13
+map_Kd textures/thatched.png
+newmtl m14
+map_Kd textures/thatched.png
+newmtl m15
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m16
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m17
+map_Kd textures/thatched.png
+newmtl m18
+map_Kd textures/thatched.png
+newmtl m19
+map_Kd textures/thatched.png
+newmtl m20
+map_Kd textures/thatched.png
+newmtl m21
+map_Kd textures/thatched.png
+newmtl m22
+map_Kd textures/thatched.png
+newmtl m23
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m24
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m25
+map_Kd textures/thatched.png
+newmtl m26
+map_Kd textures/thatched.png
+newmtl m27
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m28
+map_Kd textures/thatched.png
+newmtl m29
+map_Kd textures/thatched.png
+newmtl m30
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m31
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m32
+map_Kd textures/thatched.png
+newmtl m33
+map_Kd textures/thatched.png
+newmtl m34
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m35
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m36
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m37
+map_Kd textures/thatched.png
+newmtl m38
+map_Kd textures/thatched.png
+newmtl m39
+map_Kd textures/thatched.png
+newmtl m40
+map_Kd textures/thatched.png
+newmtl m41
+map_Kd textures/thatched.png
+newmtl m42
+map_Kd textures/thatched.png
+newmtl m43
+map_Kd textures/thatched.png
+newmtl m44
+map_Kd textures/thatched.png
+newmtl m45
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m46
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m47
+map_Kd textures/thatched.png
+newmtl m48
+map_Kd textures/thatched.png
+newmtl m49
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m50
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m51
+map_Kd textures/thatched.png
+newmtl m52
+map_Kd textures/thatched.png
+newmtl m53
+map_Kd textures/thatched.png
+newmtl m54
+map_Kd textures/thatched.png
+newmtl m55
+map_Kd textures/thatched.png
+newmtl m56
+map_Kd textures/thatched.png
+newmtl m57
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m58
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m59
+map_Kd textures/thatched.png
+newmtl m60
+map_Kd textures/thatched.png
+newmtl m61
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m62
+map_Kd textures/thatched.png
+newmtl m63
+map_Kd textures/thatched.png
+newmtl m64
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m65
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m66
+map_Kd textures/thatched.png
+newmtl m67
+map_Kd textures/thatched.png
+newmtl m68
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m69
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m70
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m71
+map_Kd textures/thatched.png
+newmtl m72
+map_Kd textures/thatched.png
+newmtl m73
+map_Kd textures/thatched.png
+newmtl m74
+map_Kd textures/thatched.png
+newmtl m75
+map_Kd textures/thatched.png
+newmtl m76
+map_Kd textures/thatched.png
+newmtl m77
+map_Kd textures/thatched.png
+newmtl m78
+map_Kd textures/thatched.png
+newmtl m79
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m80
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m81
+map_Kd textures/thatched.png
+newmtl m82
+map_Kd textures/thatched.png
+newmtl m83
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m84
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m85
+map_Kd textures/thatched.png
+newmtl m86
+map_Kd textures/thatched.png
+newmtl m87
+map_Kd textures/thatched.png
+newmtl m88
+map_Kd textures/thatched.png
+newmtl m89
+map_Kd textures/thatched.png
+newmtl m90
+map_Kd textures/thatched.png
+newmtl m91
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m92
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m93
+map_Kd textures/thatched.png
+newmtl m94
+map_Kd textures/thatched.png
+newmtl m95
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m96
+map_Kd textures/thatched.png
+newmtl m97
+map_Kd textures/thatched.png
+newmtl m98
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m99
+Kd 0.24705882352941178 0.09019607843137255 0.00392156862745098
+newmtl m100
+map_Kd textures/thatched.png
+newmtl m101
+map_Kd textures/thatched.png

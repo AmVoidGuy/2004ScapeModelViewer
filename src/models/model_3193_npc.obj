@@ -1,0 +1,82 @@
+mtllib 3193.mtl
+o 3193
+v -3 124 15
+v -3 118 15
+v 0 118 15
+v 0 124 15
+v 0 130 15
+v -3 130 15
+v -3 112 15
+v 0 112 15
+v 3 118 15
+v 3 124 15
+v 3 130 15
+v -8 124 14
+v -8 118 14
+v 3 112 15
+v 7 118 14
+v 7 124 14
+vn -51 0 -1280
+vn -102 0 -1024
+vn 0 0 -1536
+vn 0 0 -1536
+vn 0 0 -768
+vn 0 0 -256
+vn 0 0 -512
+vn 0 0 -768
+vn 64 0 -1280
+vn 128 0 -1024
+vn 0 0 -512
+vn -102 0 -512
+vn -51 0 -256
+vn 0 0 -256
+vn 128 0 -512
+vn 64 0 -256
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 6
+
+usemtl m4
+f 3 2 7
+
+usemtl m5
+f 3 7 8
+
+usemtl m6
+f 3 8 9
+
+usemtl m7
+f 3 9 4
+
+usemtl m8
+f 4 9 10
+
+usemtl m9
+f 4 10 11
+
+usemtl m10
+f 4 11 5
+
+usemtl m11
+f 12 13 2
+
+usemtl m12
+f 12 2 1
+
+usemtl m13
+f 8 14 9
+
+usemtl m14
+f 10 9 15
+
+usemtl m15
+f 10 15 16
+

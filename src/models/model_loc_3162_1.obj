@@ -1,0 +1,70 @@
+mtllib 3252.mtl
+o 3252
+v -32 90 -64
+v -64 90 -64
+v -64 90 64
+v -32 90 64
+v -32 0 -64
+v -32 0 64
+v -64 0 64
+v -64 0 -64
+v -64 240 -64
+v -64 226 -64
+v -64 226 64
+v -64 240 64
+v -32 240 -64
+v -32 240 64
+v -32 226 -64
+v -32 226 64
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 5 4 6
+
+usemtl m4
+f 7 3 2
+
+usemtl m5
+f 7 2 8
+
+usemtl m6
+f 9 10 11
+
+usemtl m7
+f 9 11 12
+
+usemtl m8
+f 9 12 13
+
+usemtl m9
+f 13 12 14
+
+usemtl m10
+f 13 14 15
+
+usemtl m11
+f 15 14 16
+

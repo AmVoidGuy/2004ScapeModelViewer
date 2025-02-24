@@ -1,0 +1,48 @@
+mtllib 938.mtl
+o 938
+v 64 224 -64
+v -64 224 -64
+v -64 240 -64
+v 64 240 -64
+v 64 0 64
+v 64 0 -64
+v -64 0 -64
+v -64 0 64
+vn 512 0 768
+vn 0 0 768
+vn -256 -120 287
+vn 256 -240 -194
+vn 512 -120 -225
+vn 256 0 512
+vn -256 0 256
+vn -256 -240 -450
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 6
+
+usemtl m4
+f 1 6 2
+
+usemtl m5
+f 2 6 7
+
+usemtl m6
+f 2 7 3
+
+usemtl m7
+f 3 7 8
+
+usemtl m8
+f 3 8 4
+
+usemtl m9
+f 4 8 5
+

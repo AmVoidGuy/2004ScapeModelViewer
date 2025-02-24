@@ -1,0 +1,64 @@
+mtllib 1981.mtl
+o 1981
+v 56 0 -64
+v -64 48 -64
+v 56 0 56
+v 64 0 -64
+v 64 0 -32
+v 64 0 0
+v 64 0 32
+v 64 0 64
+v 32 0 64
+v 0 0 64
+v -32 0 64
+v -64 0 64
+v -64 0 56
+vn 95 -493 0
+vn 95 -474 -95
+vn 95 -3034 -95
+vn 0 -512 0
+vn 0 -512 0
+vn 0 -512 0
+vn 0 -512 0
+vn 0 -512 0
+vn 0 -512 0
+vn 0 -512 0
+vn 0 -512 0
+vn 0 -512 0
+vn 0 -493 -95
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 4 3 5
+
+usemtl m3
+f 5 3 6
+
+usemtl m4
+f 6 3 7
+
+usemtl m5
+f 7 3 8
+
+usemtl m6
+f 8 3 9
+
+usemtl m7
+f 9 3 10
+
+usemtl m8
+f 10 3 11
+
+usemtl m9
+f 11 3 12
+
+usemtl m10
+f 12 3 13
+
+usemtl m11
+f 13 3 2
+

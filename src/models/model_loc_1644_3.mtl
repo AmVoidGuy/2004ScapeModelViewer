@@ -1,0 +1,16 @@
+newmtl m0
+Kd 0.3764705882352941 0.33725490196078434 0.3333333333333333
+newmtl m1
+Kd 0.3764705882352941 0.33725490196078434 0.3333333333333333
+newmtl m2
+map_Kd textures/wall.png
+newmtl m3
+map_Kd textures/wall.png
+newmtl m4
+map_Kd textures/wall.png
+newmtl m5
+map_Kd textures/wall.png
+newmtl m6
+map_Kd textures/wall.png
+newmtl m7
+map_Kd textures/wall.png

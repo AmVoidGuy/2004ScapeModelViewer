@@ -1,0 +1,4 @@
+newmtl m0
+map_Kd textures/web.png
+newmtl m1
+map_Kd textures/web.png

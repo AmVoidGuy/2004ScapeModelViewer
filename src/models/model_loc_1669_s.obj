@@ -1,0 +1,204 @@
+mtllib 1971.mtl
+o 1971
+v 64 16 -64
+v 64 32 -64
+v 32 32 -32
+v 32 16 -32
+v 32 0 -32
+v 64 0 -64
+v 56 16 -64
+v 56 32 -64
+v 24 32 -36
+v 24 16 -36
+v 0 16 0
+v 0 0 0
+v 0 32 0
+v -32 32 32
+v -32 16 32
+v -32 0 32
+v -64 16 64
+v -64 0 64
+v 56 0 -64
+v 24 0 -36
+v -6 16 -6
+v -6 32 -6
+v -36 32 24
+v -36 16 24
+v -64 16 56
+v -64 0 56
+v -6 0 -6
+v -36 0 24
+v -64 48 -64
+vn 724 0 44
+vn 181 -256 75
+vn 134 -512 -820
+vn 610 -256 -953
+vn 543 0 -543
+vn 181 0 331
+vn -336 0 1152
+vn -336 -512 896
+vn -282 -256 -37
+vn -1081 -512 491
+vn 1269 -512 -541
+vn 543 0 -543
+vn 363 -256 1
+vn -96 -512 -590
+vn 495 -256 -838
+vn 543 0 -543
+vn -331 -512 -181
+vn 106 0 -362
+vn -249 -218 540
+vn -352 -438 363
+vn -542 -256 906
+vn 2 -512 726
+vn -410 -256 67
+vn -1374 -512 664
+vn -640 -256 336
+vn -604 -218 81
+vn -361 -440 361
+vn -374 -438 339
+vn 369 -876 -369
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 6
+
+usemtl m4
+f 1 6 7
+
+usemtl m5
+f 1 7 8
+
+usemtl m6
+f 1 8 2
+
+usemtl m7
+f 2 8 3
+
+usemtl m8
+f 3 8 9
+
+usemtl m9
+f 3 9 10
+
+usemtl m10
+f 3 10 4
+
+usemtl m11
+f 4 10 11
+
+usemtl m12
+f 4 11 12
+
+usemtl m13
+f 4 12 5
+
+usemtl m14
+f 11 13 14
+
+usemtl m15
+f 11 14 15
+
+usemtl m16
+f 11 15 16
+
+usemtl m17
+f 11 16 12
+
+usemtl m18
+f 15 17 18
+
+usemtl m19
+f 15 18 16
+
+usemtl m20
+f 10 9 8
+
+usemtl m21
+f 10 8 7
+
+usemtl m22
+f 10 7 19
+
+usemtl m23
+f 10 19 20
+
+usemtl m24
+f 10 20 21
+
+usemtl m25
+f 10 21 11
+
+usemtl m26
+f 11 21 22
+
+usemtl m27
+f 11 22 13
+
+usemtl m28
+f 13 22 14
+
+usemtl m29
+f 14 22 23
+
+usemtl m30
+f 14 23 24
+
+usemtl m31
+f 14 24 15
+
+usemtl m32
+f 15 24 17
+
+usemtl m33
+f 17 24 25
+
+usemtl m34
+f 17 25 26
+
+usemtl m35
+f 17 26 18
+
+usemtl m36
+f 20 27 21
+
+usemtl m37
+f 21 27 24
+
+usemtl m38
+f 21 24 22
+
+usemtl m39
+f 22 24 23
+
+usemtl m40
+f 27 28 24
+
+usemtl m41
+f 24 28 25
+
+usemtl m42
+f 25 28 26
+
+usemtl m43
+f 26 28 29
+
+usemtl m44
+f 29 28 27
+
+usemtl m45
+f 29 27 20
+
+usemtl m46
+f 29 20 19
+
+usemtl m47
+f 6 19 7
+

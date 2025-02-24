@@ -1,0 +1,47 @@
+mtllib 1240.mtl
+o 1240
+v -64 8 64
+v 0 8 32
+v -64 8 -64
+v 32 8 0
+v 64 8 -64
+v 64 0 -64
+v 32 0 0
+v 0 0 32
+v -64 0 64
+vn 228 -256 -458
+vn 476 -512 -591
+vn 0 -768 0
+vn 639 -512 -409
+vn 229 -256 -114
+vn 458 0 -228
+vn 591 0 -476
+vn 409 0 -639
+vn 114 0 -229
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 3 2 4
+
+usemtl m2
+f 3 4 5
+
+usemtl m3
+f 5 4 6
+
+usemtl m4
+f 6 4 7
+
+usemtl m5
+f 7 4 2
+
+usemtl m6
+f 7 2 8
+
+usemtl m7
+f 8 2 1
+
+usemtl m8
+f 8 1 9
+

@@ -1,0 +1,48 @@
+mtllib 683.mtl
+o 683
+v 58 214 58
+v 58 190 58
+v -60 190 58
+v -60 214 58
+v 64 218 64
+v 64 186 64
+v -64 186 64
+v -64 218 64
+vn 362 -213 1016
+vn 181 426 721
+vn -213 213 796
+vn -426 -426 824
+vn 181 -426 465
+vn 362 213 504
+vn -426 426 568
+vn -213 -213 284
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 6
+
+usemtl m4
+f 1 6 2
+
+usemtl m5
+f 2 6 7
+
+usemtl m6
+f 2 7 3
+
+usemtl m7
+f 3 7 4
+
+usemtl m8
+f 4 7 8
+
+usemtl m9
+f 4 8 5
+

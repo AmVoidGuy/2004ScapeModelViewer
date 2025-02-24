@@ -1,0 +1,40 @@
+newmtl m0
+Kd 0.30980392156862746 0.2784313725490196 0.27450980392156865
+newmtl m1
+Kd 0.30980392156862746 0.2784313725490196 0.27450980392156865
+newmtl m2
+Kd 0.30980392156862746 0.2784313725490196 0.27450980392156865
+newmtl m3
+map_Kd textures/wall.png
+newmtl m4
+map_Kd textures/wall.png
+newmtl m5
+map_Kd textures/wall.png
+newmtl m6
+map_Kd textures/wall.png
+newmtl m7
+map_Kd textures/wall.png
+newmtl m8
+map_Kd textures/wall.png
+newmtl m9
+map_Kd textures/wall.png
+newmtl m10
+map_Kd textures/wall.png
+newmtl m11
+Kd 0.30980392156862746 0.2784313725490196 0.27450980392156865
+newmtl m12
+Kd 0.30980392156862746 0.2784313725490196 0.27450980392156865
+newmtl m13
+map_Kd textures/wall.png
+newmtl m14
+map_Kd textures/wall.png
+newmtl m15
+map_Kd textures/wall.png
+newmtl m16
+Kd 0.23137254901960785 0.20784313725490197 0.20784313725490197
+newmtl m17
+Kd 0.23137254901960785 0.20784313725490197 0.20784313725490197
+newmtl m18
+Kd 0.30980392156862746 0.2784313725490196 0.27450980392156865
+newmtl m19
+map_Kd textures/wall.png

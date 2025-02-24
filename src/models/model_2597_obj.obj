@@ -1,0 +1,98 @@
+mtllib 2597.mtl
+o 2597
+v 11 2 -35
+v 14 2 -35
+v 4 -1 26
+v -3 -1 25
+v 11 6 -35
+v 14 6 -35
+v 12 7 -44
+v 12 1 -44
+v 16 1 -43
+v 16 7 -43
+v 4 9 26
+v -3 9 25
+vn -766 1024 -177
+vn 1010 512 28
+vn 217 512 -273
+vn -569 256 -384
+vn -754 -512 384
+vn 502 -1024 -395
+vn -455 -512 254
+vn -134 256 513
+vn 308 512 135
+vn 627 -256 356
+vn 433 -256 -582
+vn -284 -512 -174
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 2
+
+usemtl m4
+f 1 2 6
+
+usemtl m5
+f 1 6 5
+
+usemtl m6
+f 1 5 7
+
+usemtl m7
+f 1 7 8
+
+usemtl m8
+f 1 8 9
+
+usemtl m9
+f 1 9 2
+
+usemtl m10
+f 2 9 10
+
+usemtl m11
+f 2 10 6
+
+usemtl m12
+f 2 6 11
+
+usemtl m13
+f 2 11 3
+
+usemtl m14
+f 3 11 4
+
+usemtl m15
+f 4 11 12
+
+usemtl m16
+f 4 12 5
+
+usemtl m17
+f 5 12 6
+
+usemtl m18
+f 5 6 2
+
+usemtl m19
+f 6 12 11
+
+usemtl m20
+f 7 5 6
+
+usemtl m21
+f 7 6 10
+
+usemtl m22
+f 7 10 8
+
+usemtl m23
+f 8 10 9
+

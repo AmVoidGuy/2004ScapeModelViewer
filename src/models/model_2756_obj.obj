@@ -1,0 +1,108 @@
+mtllib 2756.mtl
+o 2756
+v -17 0 -6
+v -17 0 6
+v -15 11 5
+v -15 11 -5
+v -8 0 -13
+v -6 11 -12
+v 8 0 -13
+v 7 11 -12
+v 17 0 -6
+v 15 11 -5
+v 17 0 6
+v 15 11 5
+v 8 0 13
+v 7 11 12
+v -8 0 13
+v -7 11 12
+v -1 20 0
+vn -660 -137 199
+vn -575 -124 -391
+vn -906 -564 -300
+vn -792 -561 515
+vn -310 -115 654
+vn -246 -504 981
+vn 156 -78 713
+vn 413 -523 902
+vn 575 -124 391
+vn 887 -578 292
+vn 660 -137 -199
+vn 791 -564 -493
+vn 323 -101 -647
+vn 258 -499 -959
+vn -156 -78 -713
+vn -419 -517 -910
+vn -20 -1699 7
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 5 4 6
+
+usemtl m4
+f 5 6 7
+
+usemtl m5
+f 7 6 8
+
+usemtl m6
+f 7 8 9
+
+usemtl m7
+f 9 8 10
+
+usemtl m8
+f 9 10 11
+
+usemtl m9
+f 11 10 12
+
+usemtl m10
+f 11 12 13
+
+usemtl m11
+f 13 12 14
+
+usemtl m12
+f 13 14 15
+
+usemtl m13
+f 15 14 16
+
+usemtl m14
+f 15 16 2
+
+usemtl m15
+f 2 16 3
+
+usemtl m16
+f 3 16 17
+
+usemtl m17
+f 3 17 4
+
+usemtl m18
+f 4 17 6
+
+usemtl m19
+f 6 17 8
+
+usemtl m20
+f 8 17 10
+
+usemtl m21
+f 10 17 12
+
+usemtl m22
+f 12 17 14
+
+usemtl m23
+f 14 17 16
+

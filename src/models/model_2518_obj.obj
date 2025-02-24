@@ -1,0 +1,30 @@
+mtllib 2518.mtl
+o 2518
+v -14 1 -15
+v 0 0 12
+v 0 3 12
+v 4 3 10
+v 4 0 10
+vn -29 0 54
+vn -112 256 -347
+vn 2 -256 -575
+vn 319 -256 -71
+vn 441 256 -315
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 2
+
+usemtl m4
+f 2 5 3
+
+usemtl m5
+f 3 5 4
+

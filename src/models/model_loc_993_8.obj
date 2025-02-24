@@ -1,0 +1,518 @@
+mtllib 982.mtl
+o 982
+v -48 64 -8
+v -48 48 -8
+v -48 48 0
+v -48 64 0
+v 48 64 0
+v 48 64 -8
+v -64 64 -8
+v -48 96 -8
+v -48 96 0
+v -64 96 0
+v -64 64 0
+v -64 48 0
+v 48 48 0
+v 64 64 0
+v 48 96 0
+v 48 96 -8
+v 64 96 -8
+v 64 64 -8
+v 64 48 -8
+v 48 48 -8
+v -48 112 -8
+v -48 112 0
+v 48 112 0
+v 48 112 -8
+v -64 96 -8
+v -64 112 -8
+v -48 136 -8
+v -48 136 0
+v -64 136 0
+v -64 112 0
+v 64 96 0
+v 64 112 0
+v 48 136 0
+v 48 136 -8
+v 64 136 -8
+v 64 112 -8
+v 56 160 -4
+v 64 136 0
+v 64 0 -8
+v 48 0 -8
+v 48 0 0
+v 64 0 0
+v 64 48 0
+v -64 136 -8
+v -56 160 -4
+v -64 48 -8
+v -64 0 -8
+v -64 0 0
+v -48 0 0
+v -48 0 -8
+v 16 80 -40
+v -24 80 -40
+v -24 80 0
+v 16 80 0
+v 16 72 -40
+v -24 72 -40
+v -24 72 0
+v -24 72 40
+v -24 80 40
+v 16 80 40
+v 16 72 0
+v -12 0 -16
+v 4 0 -16
+v 4 72 -16
+v -12 72 -16
+v -12 0 -32
+v -12 72 -32
+v 4 0 -32
+v 4 72 -32
+v 16 72 40
+v 4 0 16
+v -12 0 16
+v -12 72 16
+v 4 72 16
+v 4 0 32
+v 4 72 32
+v -12 0 32
+v -12 72 32
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 256 -512 256
+vn -512 -256 512
+vn -768 -768 0
+vn 768 -768 0
+vn 512 0 512
+vn -256 0 256
+vn -768 0 0
+vn -512 0 -512
+vn -256 -512 -256
+vn 512 -256 -512
+vn 768 0 0
+vn -256 0 -512
+vn 512 0 -256
+vn 256 0 -512
+vn -512 0 -256
+vn -512 0 256
+vn -256 0 512
+vn 256 0 512
+vn 512 0 256
+vn 256 0 -256
+vn 256 0 512
+vn -512 0 256
+vn -256 0 512
+vn 512 0 256
+vn 512 0 -256
+vn 256 0 -512
+vn -256 0 -512
+vn -512 0 -256
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 6
+
+usemtl m4
+f 1 6 2
+
+usemtl m5
+f 1 2 7
+
+usemtl m6
+f 1 7 8
+
+usemtl m7
+f 1 8 4
+
+usemtl m8
+f 4 8 9
+
+usemtl m9
+f 4 9 10
+
+usemtl m10
+f 4 10 11
+
+usemtl m11
+f 4 11 12
+
+usemtl m12
+f 4 12 3
+
+usemtl m13
+f 4 3 13
+
+usemtl m14
+f 4 13 5
+
+usemtl m15
+f 5 13 14
+
+usemtl m16
+f 5 14 15
+
+usemtl m17
+f 5 15 6
+
+usemtl m18
+f 6 15 16
+
+usemtl m19
+f 6 16 17
+
+usemtl m20
+f 6 17 18
+
+usemtl m21
+f 6 18 19
+
+usemtl m22
+f 6 19 20
+
+usemtl m23
+f 6 20 2
+
+usemtl m24
+f 21 8 9
+
+usemtl m25
+f 21 9 22
+
+usemtl m26
+f 21 22 23
+
+usemtl m27
+f 21 23 24
+
+usemtl m28
+f 21 24 8
+
+usemtl m29
+f 21 8 25
+
+usemtl m30
+f 21 25 26
+
+usemtl m31
+f 21 26 27
+
+usemtl m32
+f 21 27 22
+
+usemtl m33
+f 22 27 28
+
+usemtl m34
+f 22 28 29
+
+usemtl m35
+f 22 29 30
+
+usemtl m36
+f 22 30 9
+
+usemtl m37
+f 22 9 15
+
+usemtl m38
+f 22 15 23
+
+usemtl m39
+f 23 15 31
+
+usemtl m40
+f 23 31 32
+
+usemtl m41
+f 23 32 33
+
+usemtl m42
+f 23 33 24
+
+usemtl m43
+f 24 33 34
+
+usemtl m44
+f 24 34 35
+
+usemtl m45
+f 24 35 36
+
+usemtl m46
+f 24 36 16
+
+usemtl m47
+f 24 16 8
+
+usemtl m48
+f 34 37 35
+
+usemtl m49
+f 35 37 38
+
+usemtl m50
+f 35 38 32
+
+usemtl m51
+f 35 32 36
+
+usemtl m52
+f 36 17 16
+
+usemtl m53
+f 19 39 40
+
+usemtl m54
+f 19 40 20
+
+usemtl m55
+f 20 40 13
+
+usemtl m56
+f 13 40 41
+
+usemtl m57
+f 13 41 42
+
+usemtl m58
+f 13 42 43
+
+usemtl m59
+f 13 43 14
+
+usemtl m60
+f 32 38 33
+
+usemtl m61
+f 33 38 37
+
+usemtl m62
+f 33 37 34
+
+usemtl m63
+f 15 14 31
+
+usemtl m64
+f 31 14 17
+
+usemtl m65
+f 17 14 18
+
+usemtl m66
+f 19 43 42
+
+usemtl m67
+f 19 42 39
+
+usemtl m68
+f 26 44 27
+
+usemtl m69
+f 27 44 45
+
+usemtl m70
+f 27 45 28
+
+usemtl m71
+f 28 45 29
+
+usemtl m72
+f 29 45 44
+
+usemtl m73
+f 29 44 26
+
+usemtl m74
+f 29 26 30
+
+usemtl m75
+f 8 7 25
+
+usemtl m76
+f 25 7 10
+
+usemtl m77
+f 10 7 11
+
+usemtl m78
+f 7 2 46
+
+usemtl m79
+f 46 2 47
+
+usemtl m80
+f 46 47 12
+
+usemtl m81
+f 12 47 48
+
+usemtl m82
+f 12 48 49
+
+usemtl m83
+f 12 49 3
+
+usemtl m84
+f 3 49 2
+
+usemtl m85
+f 2 49 50
+
+usemtl m86
+f 2 50 47
+
+usemtl m87
+f 30 10 9
+
+usemtl m88
+f 51 52 53
+
+usemtl m89
+f 51 53 54
+
+usemtl m90
+f 51 54 55
+
+usemtl m91
+f 51 55 52
+
+usemtl m92
+f 52 55 56
+
+usemtl m93
+f 52 56 57
+
+usemtl m94
+f 52 57 53
+
+usemtl m95
+f 53 57 58
+
+usemtl m96
+f 53 58 59
+
+usemtl m97
+f 53 59 54
+
+usemtl m98
+f 54 59 60
+
+usemtl m99
+f 54 60 61
+
+usemtl m100
+f 54 61 55
+
+usemtl m101
+f 62 63 64
+
+usemtl m102
+f 62 64 65
+
+usemtl m103
+f 62 65 66
+
+usemtl m104
+f 66 65 67
+
+usemtl m105
+f 66 67 68
+
+usemtl m106
+f 68 67 69
+
+usemtl m107
+f 68 69 63
+
+usemtl m108
+f 63 69 64
+
+usemtl m109
+f 60 70 61
+
+usemtl m110
+f 70 60 58
+
+usemtl m111
+f 58 60 59
+
+usemtl m112
+f 71 72 73
+
+usemtl m113
+f 71 73 74
+
+usemtl m114
+f 71 74 75
+
+usemtl m115
+f 75 74 76
+
+usemtl m116
+f 75 76 77
+
+usemtl m117
+f 77 76 78
+
+usemtl m118
+f 77 78 72
+
+usemtl m119
+f 72 78 73
+

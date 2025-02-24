@@ -1,0 +1,84 @@
+mtllib 945.mtl
+o 945
+v -56 0 -64
+v -56 120 -40
+v -56 120 -64
+v -40 120 -64
+v -40 120 -40
+v -40 0 -64
+v -32 240 -16
+v -32 0 -64
+v -32 0 -8
+v -32 240 32
+v -64 240 32
+v -64 0 -8
+v -64 0 -64
+v -64 240 -16
+vn -256 -100 502
+vn -256 -662 753
+vn -256 -256 0
+vn 256 -512 0
+vn 256 -356 502
+vn 256 -100 502
+vn 512 -456 1004
+vn 256 -50 251
+vn 512 84 -504
+vn 256 -470 -252
+vn -512 -172 -504
+vn -256 42 -252
+vn -512 -50 251
+vn -256 -662 753
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 3 2 4
+
+usemtl m2
+f 4 2 5
+
+usemtl m3
+f 4 5 6
+
+usemtl m4
+f 6 5 7
+
+usemtl m5
+f 6 7 8
+
+usemtl m6
+f 8 7 9
+
+usemtl m7
+f 9 7 10
+
+usemtl m8
+f 9 10 11
+
+usemtl m9
+f 9 11 12
+
+usemtl m10
+f 12 11 13
+
+usemtl m11
+f 13 11 14
+
+usemtl m12
+f 13 14 1
+
+usemtl m13
+f 1 14 2
+
+usemtl m14
+f 2 14 7
+
+usemtl m15
+f 2 7 5
+
+usemtl m16
+f 14 11 10
+
+usemtl m17
+f 14 10 7
+

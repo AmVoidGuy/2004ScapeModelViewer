@@ -1,0 +1,80 @@
+mtllib 2393.mtl
+o 2393
+v -8 48 7
+v -20 48 19
+v -23 36 39
+v 26 28 -1
+v -20 48 1
+v -24 48 7
+v -41 42 1
+v -32 0 -3
+v -24 0 33
+v 18 0 1
+v -23 36 -23
+v -25 0 -14
+vn 337 -1060 -104
+vn -103 -866 -254
+vn -198 -453 -704
+vn 702 -467 -29
+vn 34 -861 353
+vn -270 -1184 148
+vn -927 -546 153
+vn -692 92 -18
+vn 60 68 -456
+vn 332 136 264
+vn -118 -514 909
+vn -339 120 518
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 6
+
+usemtl m4
+f 1 6 2
+
+usemtl m5
+f 2 6 7
+
+usemtl m6
+f 2 7 3
+
+usemtl m7
+f 3 7 8
+
+usemtl m8
+f 3 8 9
+
+usemtl m9
+f 3 9 4
+
+usemtl m10
+f 4 9 10
+
+usemtl m11
+f 4 10 11
+
+usemtl m12
+f 4 11 5
+
+usemtl m13
+f 5 11 6
+
+usemtl m14
+f 6 11 7
+
+usemtl m15
+f 7 11 12
+
+usemtl m16
+f 7 12 8
+
+usemtl m17
+f 11 10 12
+

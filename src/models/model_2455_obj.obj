@@ -1,0 +1,100 @@
+mtllib 2455.mtl
+o 2455
+v -25 0 -12
+v -25 0 12
+v -25 8 12
+v -25 8 -12
+v -12 0 -24
+v -12 8 -24
+v 12 0 -24
+v 12 8 -24
+v 25 0 -12
+v 25 8 -12
+v 25 0 12
+v 25 8 12
+v 12 0 24
+v 12 8 24
+v -12 0 24
+v -12 8 24
+vn -686 0 188
+vn -604 0 -376
+vn -686 -256 -188
+vn -604 -1536 376
+vn -348 0 632
+vn -174 -256 700
+vn 174 0 700
+vn 348 -512 632
+vn 604 0 376
+vn 686 -512 188
+vn 686 0 -188
+vn 604 -512 -376
+vn 348 0 -632
+vn 174 -512 -700
+vn -174 0 -700
+vn -348 -512 -632
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 5 4 6
+
+usemtl m4
+f 5 6 7
+
+usemtl m5
+f 7 6 8
+
+usemtl m6
+f 7 8 9
+
+usemtl m7
+f 9 8 10
+
+usemtl m8
+f 9 10 11
+
+usemtl m9
+f 11 10 12
+
+usemtl m10
+f 11 12 13
+
+usemtl m11
+f 13 12 14
+
+usemtl m12
+f 13 14 15
+
+usemtl m13
+f 15 14 16
+
+usemtl m14
+f 15 16 2
+
+usemtl m15
+f 2 16 3
+
+usemtl m16
+f 3 16 4
+
+usemtl m17
+f 4 16 14
+
+usemtl m18
+f 4 14 12
+
+usemtl m19
+f 4 12 10
+
+usemtl m20
+f 4 10 8
+
+usemtl m21
+f 4 8 6
+

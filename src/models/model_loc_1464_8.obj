@@ -1,0 +1,84 @@
+mtllib 815.mtl
+o 815
+v 0 240 64
+v 64 240 64
+v 64 240 -64
+v 16 240 16
+v 0 240 48
+v -16 240 64
+v -16 240 48
+v -64 240 64
+v 0 240 -32
+v -64 240 -64
+v -16 240 -64
+v 16 240 -32
+v 0 240 -64
+v 0 240 16
+vn 0 -1024 0
+vn 0 -256 0
+vn 0 -1024 0
+vn 0 -1536 0
+vn 0 -1280 0
+vn 0 -768 0
+vn 0 -1280 0
+vn 0 -768 0
+vn 0 -1792 0
+vn 0 -512 0
+vn 0 -768 0
+vn 0 -1280 0
+vn 0 -512 0
+vn 0 -1024 0
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 6
+
+usemtl m4
+f 6 5 7
+
+usemtl m5
+f 6 7 8
+
+usemtl m6
+f 8 7 9
+
+usemtl m7
+f 8 9 10
+
+usemtl m8
+f 10 9 11
+
+usemtl m9
+f 11 9 12
+
+usemtl m10
+f 11 12 13
+
+usemtl m11
+f 13 12 3
+
+usemtl m12
+f 3 12 4
+
+usemtl m13
+f 4 12 9
+
+usemtl m14
+f 4 9 14
+
+usemtl m15
+f 4 14 5
+
+usemtl m16
+f 5 14 7
+
+usemtl m17
+f 7 14 9
+

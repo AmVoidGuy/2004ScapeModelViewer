@@ -1,0 +1,4 @@
+newmtl m0
+map_Kd textures/willowtex3.png
+newmtl m1
+map_Kd textures/willowtex3.png

@@ -1,0 +1,86 @@
+mtllib 2657.mtl
+o 2657
+v -18 8 -2
+v -19 8 5
+v -13 6 6
+v -12 6 3
+v -18 1 -2
+v -19 1 5
+v -13 3 6
+v 5 2 17
+v 5 7 17
+v 7 7 12
+v -12 3 3
+v 7 2 12
+vn 54 -500 202
+vn -517 -244 -451
+vn -176 -756 -724
+vn 484 -768 615
+vn -108 245 461
+vn -149 488 -255
+vn -164 755 -749
+vn 213 256 -630
+vn 90 -512 -310
+vn 699 -256 270
+vn 522 744 630
+vn 333 512 140
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 2
+
+usemtl m4
+f 2 5 6
+
+usemtl m5
+f 2 6 7
+
+usemtl m6
+f 2 7 3
+
+usemtl m7
+f 3 7 8
+
+usemtl m8
+f 3 8 9
+
+usemtl m9
+f 3 9 4
+
+usemtl m10
+f 4 9 10
+
+usemtl m11
+f 4 10 11
+
+usemtl m12
+f 4 11 5
+
+usemtl m13
+f 5 11 6
+
+usemtl m14
+f 6 11 7
+
+usemtl m15
+f 7 11 12
+
+usemtl m16
+f 7 12 8
+
+usemtl m17
+f 8 12 10
+
+usemtl m18
+f 8 10 9
+
+usemtl m19
+f 10 12 11
+

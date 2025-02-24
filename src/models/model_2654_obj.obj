@@ -1,0 +1,59 @@
+mtllib 2654.mtl
+o 2654
+v -11 2 36
+v -7 5 4
+v -8 2 3
+v -2 2 6
+v -5 6 5
+v -7 6 -25
+v -10 2 -22
+v -2 8 -30
+v 1 2 -31
+vn -165 -219 -42
+vn -700 -888 236
+vn -685 -73 3
+vn 501 -80 161
+vn 497 -905 126
+vn -720 -483 162
+vn -548 -115 368
+vn -323 -534 347
+vn 271 -219 154
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 2
+
+usemtl m4
+f 2 5 4
+
+usemtl m5
+f 3 2 6
+
+usemtl m6
+f 3 6 7
+
+usemtl m7
+f 7 6 8
+
+usemtl m8
+f 7 8 9
+
+usemtl m9
+f 9 8 5
+
+usemtl m10
+f 9 5 4
+
+usemtl m11
+f 2 5 8
+
+usemtl m12
+f 2 8 6
+

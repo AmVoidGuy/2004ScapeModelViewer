@@ -1,0 +1,198 @@
+newmtl m0
+map_Kd textures/mossy.png
+newmtl m1
+map_Kd textures/mossy.png
+newmtl m2
+map_Kd textures/mossy.png
+newmtl m3
+map_Kd textures/mossy.png
+newmtl m4
+map_Kd textures/mossy.png
+newmtl m5
+map_Kd textures/mossy.png
+newmtl m6
+map_Kd textures/mossy.png
+newmtl m7
+map_Kd textures/mossy.png
+newmtl m8
+map_Kd textures/mossy.png
+newmtl m9
+map_Kd textures/mossy.png
+newmtl m10
+map_Kd textures/mossy.png
+newmtl m11
+map_Kd textures/mossy.png
+newmtl m12
+map_Kd textures/mossy.png
+newmtl m13
+map_Kd textures/mossy.png
+newmtl m14
+map_Kd textures/mossy.png
+newmtl m15
+map_Kd textures/mossy.png
+newmtl m16
+map_Kd textures/mossy.png
+newmtl m17
+map_Kd textures/mossy.png
+newmtl m18
+map_Kd textures/mossy.png
+newmtl m19
+map_Kd textures/mossy.png
+newmtl m20
+map_Kd textures/mossy.png
+newmtl m21
+map_Kd textures/mossy.png
+newmtl m22
+map_Kd textures/mossy.png
+newmtl m23
+map_Kd textures/mossy.png
+newmtl m24
+map_Kd textures/mossy.png
+newmtl m25
+map_Kd textures/mossy.png
+newmtl m26
+map_Kd textures/mossy.png
+newmtl m27
+map_Kd textures/mossy.png
+newmtl m28
+map_Kd textures/mossy.png
+newmtl m29
+map_Kd textures/mossy.png
+newmtl m30
+map_Kd textures/mossy.png
+newmtl m31
+map_Kd textures/mossy.png
+newmtl m32
+map_Kd textures/mossy.png
+newmtl m33
+map_Kd textures/mossy.png
+newmtl m34
+map_Kd textures/mossy.png
+newmtl m35
+map_Kd textures/mossy.png
+newmtl m36
+map_Kd textures/mossy.png
+newmtl m37
+map_Kd textures/mossy.png
+newmtl m38
+map_Kd textures/mossy.png
+newmtl m39
+map_Kd textures/mossy.png
+newmtl m40
+map_Kd textures/mossy.png
+newmtl m41
+map_Kd textures/mossy.png
+newmtl m42
+map_Kd textures/mossy.png
+newmtl m43
+map_Kd textures/mossy.png
+newmtl m44
+map_Kd textures/mossy.png
+newmtl m45
+map_Kd textures/mossy.png
+newmtl m46
+map_Kd textures/mossy.png
+newmtl m47
+map_Kd textures/mossy.png
+newmtl m48
+map_Kd textures/mossy.png
+newmtl m49
+map_Kd textures/mossy.png
+newmtl m50
+map_Kd textures/mossy.png
+newmtl m51
+map_Kd textures/mossy.png
+newmtl m52
+map_Kd textures/mossy.png
+newmtl m53
+map_Kd textures/mossy.png
+newmtl m54
+map_Kd textures/mossy.png
+newmtl m55
+map_Kd textures/mossy.png
+newmtl m56
+map_Kd textures/mossy.png
+newmtl m57
+map_Kd textures/mossy.png
+newmtl m58
+map_Kd textures/mossy.png
+newmtl m59
+map_Kd textures/mossy.png
+newmtl m60
+map_Kd textures/mossy.png
+newmtl m61
+map_Kd textures/mossy.png
+newmtl m62
+map_Kd textures/mossy.png
+newmtl m63
+Kd 0.5372549019607843 0.3607843137254902 0.16470588235294117
+d 0.8784313725490196
+newmtl m64
+Kd 0.5372549019607843 0.3607843137254902 0.16470588235294117
+d 0.8784313725490196
+newmtl m65
+Kd 0.5372549019607843 0.3607843137254902 0.16470588235294117
+d 0.8784313725490196
+newmtl m66
+Kd 0.5372549019607843 0.3607843137254902 0.16470588235294117
+d 0.8784313725490196
+newmtl m67
+Kd 0.5372549019607843 0.3607843137254902 0.16470588235294117
+d 0.8784313725490196
+newmtl m68
+Kd 0.5372549019607843 0.3607843137254902 0.16470588235294117
+d 0.8784313725490196
+newmtl m69
+Kd 0.5372549019607843 0.3607843137254902 0.16470588235294117
+d 0.8784313725490196
+newmtl m70
+Kd 0.5372549019607843 0.3607843137254902 0.16470588235294117
+d 0.8784313725490196
+newmtl m71
+Kd 0.5372549019607843 0.3607843137254902 0.16470588235294117
+d 0.8784313725490196
+newmtl m72
+Kd 0.5372549019607843 0.3607843137254902 0.16470588235294117
+d 0.8784313725490196
+newmtl m73
+Kd 0.5372549019607843 0.3607843137254902 0.16470588235294117
+d 0.8784313725490196
+newmtl m74
+Kd 0.5372549019607843 0.3607843137254902 0.16470588235294117
+d 0.8784313725490196
+newmtl m75
+Kd 0.0 0.0 0.00392156862745098
+d 0.8784313725490196
+newmtl m76
+Kd 0.0 0.0 0.00392156862745098
+d 0.8784313725490196
+newmtl m77
+Kd 0.0 0.0 0.00392156862745098
+d 0.8784313725490196
+newmtl m78
+Kd 0.0 0.0 0.00392156862745098
+d 0.8784313725490196
+newmtl m79
+Kd 0.0 0.0 0.00392156862745098
+d 0.8784313725490196
+newmtl m80
+Kd 0.0 0.0 0.00392156862745098
+d 0.8784313725490196
+newmtl m81
+Kd 0.0 0.0 0.00392156862745098
+d 0.8784313725490196
+newmtl m82
+Kd 0.0 0.0 0.00392156862745098
+d 0.8784313725490196
+newmtl m83
+Kd 0.0 0.0 0.00392156862745098
+d 0.8784313725490196
+newmtl m84
+Kd 0.0 0.0 0.00392156862745098
+d 0.8784313725490196
+newmtl m85
+Kd 0.0 0.0 0.00392156862745098
+d 0.8784313725490196
+newmtl m86
+Kd 0.0 0.0 0.00392156862745098
+d 0.8784313725490196

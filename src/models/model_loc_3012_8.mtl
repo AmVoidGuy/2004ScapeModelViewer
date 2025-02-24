@@ -1,0 +1,12 @@
+newmtl m0
+map_Kd textures/pebblefloor.png
+newmtl m1
+map_Kd textures/pebblefloor.png
+newmtl m2
+map_Kd textures/pebblefloor.png
+newmtl m3
+map_Kd textures/pebblefloor.png
+newmtl m4
+map_Kd textures/pebblefloor.png
+newmtl m5
+map_Kd textures/pebblefloor.png

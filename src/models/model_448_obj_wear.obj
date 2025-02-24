@@ -1,0 +1,70 @@
+mtllib 448.mtl
+o 448
+v 0 152 18
+v 2 146 21
+v 0 144 20
+v -2 146 21
+v 0 146 24
+v 9 145 22
+v 2 144 22
+v 0 139 26
+v -2 144 22
+v -9 145 22
+vn 0 -154 152
+vn 423 -408 294
+vn 0 804 1244
+vn -423 -408 294
+vn 0 -516 -1000
+vn 138 95 59
+vn 402 552 -172
+vn 0 252 -26
+vn -402 552 -172
+vn -138 95 59
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 2
+
+usemtl m4
+f 2 5 6
+
+usemtl m5
+f 2 6 3
+
+usemtl m6
+f 3 6 7
+
+usemtl m7
+f 3 7 8
+
+usemtl m8
+f 3 8 9
+
+usemtl m9
+f 3 9 10
+
+usemtl m10
+f 3 10 4
+
+usemtl m11
+f 4 10 5
+
+usemtl m12
+f 5 10 9
+
+usemtl m13
+f 5 9 8
+
+usemtl m14
+f 5 8 7
+
+usemtl m15
+f 5 7 6
+

@@ -1,0 +1,4 @@
+newmtl m0
+map_Kd textures/water_animated.png
+newmtl m1
+map_Kd textures/water_animated.png

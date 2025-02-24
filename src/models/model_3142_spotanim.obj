@@ -1,0 +1,206 @@
+mtllib 3142.mtl
+o 3142
+v -1 1 34
+v 1 1 34
+v 1 1 -11
+v -1 1 -11
+v -1 -1 34
+v -3 0 37
+v -1 4 39
+v 1 4 39
+v 3 0 37
+v 1 -1 34
+v 1 -1 -11
+v 1 -1 -21
+v 1 1 -21
+v 1 4 -14
+v -1 4 -14
+v -1 4 -24
+v -1 1 -21
+v -1 -1 -11
+v 1 -4 39
+v -1 -4 39
+v 0 0 53
+v 1 -4 -14
+v 1 -4 -24
+v -1 -4 -24
+v -1 -1 -21
+v 1 4 -24
+v -1 -4 -14
+vn -674 -886 370
+vn 930 -862 509
+vn 1024 -896 -384
+vn -1280 -448 -192
+vn -930 862 509
+vn -1085 0 230
+vn -433 -948 250
+vn 433 -716 111
+vn 1085 0 230
+vn 674 886 370
+vn 1280 448 -192
+vn 768 -384 640
+vn 768 192 704
+vn 512 -448 -192
+vn -256 -896 -384
+vn -512 -64 192
+vn -768 384 640
+vn -1024 896 -384
+vn 433 948 250
+vn -433 716 111
+vn 0 0 -312
+vn 256 896 -384
+vn 512 64 192
+vn -256 128 384
+vn -768 -192 704
+vn 256 -128 384
+vn -512 448 -192
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 6
+
+usemtl m4
+f 1 6 7
+
+usemtl m5
+f 1 7 2
+
+usemtl m6
+f 2 7 8
+
+usemtl m7
+f 2 8 9
+
+usemtl m8
+f 2 9 10
+
+usemtl m9
+f 2 10 11
+
+usemtl m10
+f 2 11 3
+
+usemtl m11
+f 3 11 12
+
+usemtl m12
+f 3 12 13
+
+usemtl m13
+f 3 13 14
+
+usemtl m14
+f 3 14 15
+
+usemtl m15
+f 3 15 4
+
+usemtl m16
+f 4 15 16
+
+usemtl m17
+f 4 16 17
+
+usemtl m18
+f 4 17 18
+
+usemtl m19
+f 4 18 5
+
+usemtl m20
+f 5 18 10
+
+usemtl m21
+f 5 10 19
+
+usemtl m22
+f 5 19 20
+
+usemtl m23
+f 5 20 6
+
+usemtl m24
+f 6 20 21
+
+usemtl m25
+f 6 21 7
+
+usemtl m26
+f 7 21 8
+
+usemtl m27
+f 8 21 9
+
+usemtl m28
+f 9 21 19
+
+usemtl m29
+f 9 19 10
+
+usemtl m30
+f 10 18 11
+
+usemtl m31
+f 11 18 22
+
+usemtl m32
+f 11 22 23
+
+usemtl m33
+f 11 23 12
+
+usemtl m34
+f 12 23 24
+
+usemtl m35
+f 12 24 25
+
+usemtl m36
+f 12 25 13
+
+usemtl m37
+f 13 25 17
+
+usemtl m38
+f 13 17 26
+
+usemtl m39
+f 13 26 14
+
+usemtl m40
+f 14 26 15
+
+usemtl m41
+f 15 26 16
+
+usemtl m42
+f 16 26 17
+
+usemtl m43
+f 20 19 21
+
+usemtl m44
+f 24 23 22
+
+usemtl m45
+f 24 22 27
+
+usemtl m46
+f 24 27 25
+
+usemtl m47
+f 25 27 18
+
+usemtl m48
+f 25 18 17
+
+usemtl m49
+f 22 18 27
+

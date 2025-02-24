@@ -1,0 +1,162 @@
+newmtl m0
+map_Kd textures/bark.png
+newmtl m1
+map_Kd textures/bark.png
+newmtl m2
+map_Kd textures/bark.png
+newmtl m3
+map_Kd textures/bark.png
+newmtl m4
+map_Kd textures/bark.png
+newmtl m5
+map_Kd textures/bark.png
+newmtl m6
+map_Kd textures/bark.png
+newmtl m7
+map_Kd textures/bark.png
+newmtl m8
+map_Kd textures/bark.png
+newmtl m9
+Kd 0.3764705882352941 0.24313725490196078 0.08235294117647059
+newmtl m10
+Kd 0.3764705882352941 0.24313725490196078 0.08235294117647059
+newmtl m11
+map_Kd textures/bark.png
+newmtl m12
+Kd 0.3764705882352941 0.24313725490196078 0.08235294117647059
+newmtl m13
+Kd 0.3764705882352941 0.24313725490196078 0.08235294117647059
+newmtl m14
+map_Kd textures/bark.png
+newmtl m15
+map_Kd textures/bark.png
+newmtl m16
+map_Kd textures/bark.png
+newmtl m17
+Kd 0.43137254901960786 0.3058823529411765 0.09019607843137255
+newmtl m18
+Kd 0.43137254901960786 0.3058823529411765 0.09019607843137255
+newmtl m19
+map_Kd textures/bark.png
+newmtl m20
+map_Kd textures/bark.png
+newmtl m21
+map_Kd textures/bark.png
+newmtl m22
+map_Kd textures/bark.png
+newmtl m23
+Kd 0.43137254901960786 0.3058823529411765 0.09019607843137255
+newmtl m24
+map_Kd textures/bark.png
+newmtl m25
+map_Kd textures/bark.png
+newmtl m26
+map_Kd textures/bark.png
+newmtl m27
+map_Kd textures/bark.png
+newmtl m28
+map_Kd textures/bark.png
+newmtl m29
+map_Kd textures/bark.png
+newmtl m30
+map_Kd textures/bark.png
+newmtl m31
+Kd 0.43137254901960786 0.3058823529411765 0.09019607843137255
+newmtl m32
+map_Kd textures/bark.png
+newmtl m33
+map_Kd textures/bark.png
+newmtl m34
+map_Kd textures/bark.png
+newmtl m35
+map_Kd textures/bark.png
+newmtl m36
+map_Kd textures/bark.png
+newmtl m37
+map_Kd textures/bark.png
+newmtl m38
+map_Kd textures/bark.png
+newmtl m39
+map_Kd textures/bark.png
+newmtl m40
+Kd 0.3764705882352941 0.24313725490196078 0.08235294117647059
+newmtl m41
+Kd 0.3764705882352941 0.24313725490196078 0.08235294117647059
+newmtl m42
+map_Kd textures/bark.png
+newmtl m43
+map_Kd textures/bark.png
+newmtl m44
+map_Kd textures/bark.png
+newmtl m45
+Kd 0.43137254901960786 0.3058823529411765 0.09019607843137255
+newmtl m46
+map_Kd textures/bark.png
+newmtl m47
+Kd 0.43137254901960786 0.3058823529411765 0.09019607843137255
+newmtl m48
+Kd 0.3764705882352941 0.24313725490196078 0.08235294117647059
+newmtl m49
+Kd 0.3764705882352941 0.24313725490196078 0.08235294117647059
+newmtl m50
+Kd 0.3764705882352941 0.24313725490196078 0.08235294117647059
+newmtl m51
+map_Kd textures/bark.png
+newmtl m52
+Kd 0.3764705882352941 0.24313725490196078 0.08235294117647059
+newmtl m53
+Kd 0.3764705882352941 0.24313725490196078 0.08235294117647059
+newmtl m54
+map_Kd textures/bark.png
+newmtl m55
+map_Kd textures/bark.png
+newmtl m56
+map_Kd textures/bark.png
+newmtl m57
+map_Kd textures/bark.png
+newmtl m58
+map_Kd textures/bark.png
+newmtl m59
+map_Kd textures/bark.png
+newmtl m60
+map_Kd textures/bark.png
+newmtl m61
+map_Kd textures/bark.png
+newmtl m62
+map_Kd textures/bark.png
+newmtl m63
+map_Kd textures/bark.png
+newmtl m64
+Kd 0.3764705882352941 0.24313725490196078 0.08235294117647059
+newmtl m65
+Kd 0.3764705882352941 0.24313725490196078 0.08235294117647059
+newmtl m66
+map_Kd textures/bark.png
+newmtl m67
+map_Kd textures/bark.png
+newmtl m68
+map_Kd textures/bark.png
+newmtl m69
+map_Kd textures/bark.png
+newmtl m70
+map_Kd textures/bark.png
+newmtl m71
+Kd 0.3764705882352941 0.24313725490196078 0.08235294117647059
+newmtl m72
+Kd 0.3764705882352941 0.24313725490196078 0.08235294117647059
+newmtl m73
+map_Kd textures/bark.png
+newmtl m74
+Kd 0.3764705882352941 0.24313725490196078 0.08235294117647059
+newmtl m75
+map_Kd textures/bark.png
+newmtl m76
+map_Kd textures/bark.png
+newmtl m77
+map_Kd textures/bark.png
+newmtl m78
+map_Kd textures/bark.png
+newmtl m79
+map_Kd textures/bark.png
+newmtl m80
+map_Kd textures/bark.png

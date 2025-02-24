@@ -1,0 +1,16 @@
+mtllib 3436.mtl
+o 3436
+v -64 0 -64
+v -64 0 64
+v 64 0 64
+v 64 0 -64
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+

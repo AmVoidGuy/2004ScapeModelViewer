@@ -1,0 +1,28 @@
+newmtl m0
+map_Kd textures/planks.png
+newmtl m1
+map_Kd textures/planks.png
+newmtl m2
+Kd 0.5372549019607843 0.3607843137254902 0.16470588235294117
+newmtl m3
+Kd 0.5372549019607843 0.3607843137254902 0.16470588235294117
+newmtl m4
+map_Kd textures/planks.png
+newmtl m5
+map_Kd textures/planks.png
+newmtl m6
+map_Kd textures/planks.png
+newmtl m7
+map_Kd textures/planks.png
+newmtl m8
+map_Kd textures/planks.png
+newmtl m9
+map_Kd textures/planks.png
+newmtl m10
+map_Kd textures/planks.png
+newmtl m11
+map_Kd textures/planks.png
+newmtl m12
+map_Kd textures/planks.png
+newmtl m13
+map_Kd textures/planks.png

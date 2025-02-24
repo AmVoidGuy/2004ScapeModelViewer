@@ -1,0 +1,44 @@
+mtllib 1822.mtl
+o 1822
+v -92 0 92
+v 0 0 0
+v -128 0 0
+v -92 0 -92
+v 0 0 -128
+v 92 0 -92
+v 128 0 0
+v 92 0 92
+v 0 0 128
+vn 0 -512 0
+vn 0 -2048 0
+vn 0 -512 0
+vn 0 -512 0
+vn 0 -512 0
+vn 0 -512 0
+vn 0 -512 0
+vn 0 -512 0
+vn 0 -512 0
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 3 2 4
+
+usemtl m2
+f 4 2 5
+
+usemtl m3
+f 5 2 6
+
+usemtl m4
+f 6 2 7
+
+usemtl m5
+f 7 2 8
+
+usemtl m6
+f 8 2 9
+
+usemtl m7
+f 9 2 1
+

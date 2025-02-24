@@ -1,0 +1,56 @@
+mtllib 1983.mtl
+o 1983
+v -64 240 0
+v -64 240 48
+v -64 176 48
+v -64 0 64
+v -64 240 64
+v -64 176 -48
+v -64 240 -48
+v -64 0 -64
+v -64 240 -64
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 2
+
+usemtl m2
+f 2 3 4
+
+usemtl m3
+f 2 4 3
+
+usemtl m4
+f 4 2 5
+
+usemtl m5
+f 4 5 2
+
+usemtl m6
+f 6 7 1
+
+usemtl m7
+f 6 1 7
+
+usemtl m8
+f 6 7 8
+
+usemtl m9
+f 6 8 7
+
+usemtl m10
+f 7 8 9
+
+usemtl m11
+f 7 9 8
+

@@ -1,0 +1,8 @@
+newmtl m0
+map_Kd textures/fountain.png
+newmtl m1
+map_Kd textures/fountain.png
+newmtl m2
+map_Kd textures/fountain.png
+newmtl m3
+map_Kd textures/fountain.png

@@ -1,0 +1,26 @@
+mtllib 3415.mtl
+o 3415
+v -64 -6 -2
+v -64 -6 64
+v 64 -6 64
+v 64 -6 -2
+v -64 -6 -64
+v 64 -6 -64
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 5 4 6
+

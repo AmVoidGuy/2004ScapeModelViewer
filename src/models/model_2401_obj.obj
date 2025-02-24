@@ -1,0 +1,214 @@
+mtllib 2401.mtl
+o 2401
+v -22 10 -12
+v -4 7 5
+v -2 7 4
+v -18 10 -17
+v -32 8 -59
+v -35 8 -56
+v -23 2 -12
+v -4 3 5
+v 6 1 26
+v 7 9 26
+v 12 9 22
+v 11 1 23
+v -3 3 4
+v -18 2 -17
+v -33 4 -58
+v -47 6 -63
+v -35 4 -56
+v 46 1 46
+v 43 2 47
+v 43 6 46
+v 47 5 46
+v 47 4 61
+vn -399 -1073 -289
+vn -799 -561 -616
+vn 825 -877 594
+vn 689 -433 307
+vn -24 -256 21
+vn -721 -30 446
+vn -839 461 -515
+vn -415 1024 -283
+vn -641 703 -523
+vn -482 -866 -537
+vn 400 -670 412
+vn 654 939 760
+vn 398 613 306
+vn 645 1075 392
+vn 39 0 288
+vn 109 -77 -64
+vn -295 256 334
+vn 358 850 -186
+vn -507 347 -1168
+vn -214 -888 -527
+vn 746 -402 -54
+vn 2 39 -133
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 6
+
+usemtl m4
+f 1 6 7
+
+usemtl m5
+f 1 7 2
+
+usemtl m6
+f 2 7 8
+
+usemtl m7
+f 2 8 9
+
+usemtl m8
+f 2 9 10
+
+usemtl m9
+f 2 10 3
+
+usemtl m10
+f 3 10 11
+
+usemtl m11
+f 3 11 12
+
+usemtl m12
+f 3 12 13
+
+usemtl m13
+f 3 13 14
+
+usemtl m14
+f 3 14 4
+
+usemtl m15
+f 4 14 15
+
+usemtl m16
+f 4 15 5
+
+usemtl m17
+f 5 15 6
+
+usemtl m18
+f 5 6 16
+
+usemtl m19
+f 5 16 15
+
+usemtl m20
+f 15 16 17
+
+usemtl m21
+f 15 17 6
+
+usemtl m22
+f 6 17 7
+
+usemtl m23
+f 7 17 14
+
+usemtl m24
+f 7 14 8
+
+usemtl m25
+f 8 14 13
+
+usemtl m26
+f 8 13 12
+
+usemtl m27
+f 8 12 9
+
+usemtl m28
+f 9 12 18
+
+usemtl m29
+f 9 18 19
+
+usemtl m30
+f 9 19 10
+
+usemtl m31
+f 10 19 20
+
+usemtl m32
+f 10 20 11
+
+usemtl m33
+f 11 20 21
+
+usemtl m34
+f 11 21 12
+
+usemtl m35
+f 12 21 18
+
+usemtl m36
+f 18 21 19
+
+usemtl m37
+f 19 21 20
+
+usemtl m38
+f 14 17 15
+
+usemtl m39
+f 17 16 16
+
+usemtl m40
+f 17 16 6
+
+usemtl m41
+f 6 16 16
+
+usemtl m42
+f 16 16 15
+
+usemtl m43
+f 16 16 5
+
+usemtl m44
+f 16 16 16
+
+usemtl m45
+f 16 16 16
+
+usemtl m46
+f 19 18 22
+
+usemtl m47
+f 19 22 22
+
+usemtl m48
+f 19 22 20
+
+usemtl m49
+f 20 22 21
+
+usemtl m50
+f 21 22 18
+
+usemtl m51
+f 18 22 22
+
+usemtl m52
+f 22 22 21
+
+usemtl m53
+f 22 22 20
+
+usemtl m54
+f 22 22 22
+
+usemtl m55
+f 22 22 22
+

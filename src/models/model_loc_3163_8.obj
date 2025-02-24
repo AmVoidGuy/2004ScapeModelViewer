@@ -1,0 +1,48 @@
+mtllib 3308.mtl
+o 3308
+v 47 144 64
+v 34 144 64
+v 32 229 -58
+v 45 229 -59
+v 47 158 64
+v 45 230 -38
+v 36 158 64
+v 34 231 -39
+vn 245 420 295
+vn -504 147 93
+vn -264 392 268
+vn 501 204 149
+vn 512 -215 -143
+vn 261 -423 -294
+vn -246 -452 -324
+vn -499 -271 -200
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 5 4 6
+
+usemtl m4
+f 5 6 7
+
+usemtl m5
+f 7 6 8
+
+usemtl m6
+f 7 8 2
+
+usemtl m7
+f 2 8 3
+
+usemtl m8
+f 3 8 4
+
+usemtl m9
+f 4 8 6
+

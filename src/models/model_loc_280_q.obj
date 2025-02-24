@@ -1,0 +1,64 @@
+mtllib 1834.mtl
+o 1834
+v -64 64 16
+v -64 128 8
+v -64 128 -4
+v -64 64 -16
+v -56 0 -8
+v -56 0 8
+v -40 64 16
+v -40 64 -16
+v 0 0 -8
+v 0 0 8
+vn -1020 62 -508
+vn -17 -120 -254
+vn -34 -225 251
+vn -510 46 759
+vn -508 93 254
+vn -254 93 -508
+vn 695 -282 -762
+vn 673 -375 505
+vn 217 -73 508
+vn 434 -239 -254
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 6
+
+usemtl m4
+f 1 6 7
+
+usemtl m5
+f 1 7 2
+
+usemtl m6
+f 2 7 3
+
+usemtl m7
+f 3 7 8
+
+usemtl m8
+f 3 8 4
+
+usemtl m9
+f 4 8 9
+
+usemtl m10
+f 4 9 5
+
+usemtl m11
+f 6 10 7
+
+usemtl m12
+f 7 10 8
+
+usemtl m13
+f 8 10 9
+

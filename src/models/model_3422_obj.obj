@@ -1,0 +1,55 @@
+mtllib 3422.mtl
+o 3422
+v -64 7 -64
+v -64 7 -38
+v -56 7 -64
+v -64 -6 9
+v -64 -6 39
+v 64 -6 39
+v 64 -6 9
+v -64 -6 -16
+v 64 -6 -16
+v -64 -6 -64
+v 64 -6 -64
+v -64 -6 64
+v 64 -6 64
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+vn 0 0 0
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 4 5 6
+
+usemtl m2
+f 4 6 7
+
+usemtl m3
+f 4 7 8
+
+usemtl m4
+f 8 7 9
+
+usemtl m5
+f 8 9 10
+
+usemtl m6
+f 10 9 11
+
+usemtl m7
+f 5 12 13
+
+usemtl m8
+f 5 13 6
+

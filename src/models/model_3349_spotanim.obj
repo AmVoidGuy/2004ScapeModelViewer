@@ -1,0 +1,78 @@
+mtllib 3349.mtl
+o 3349
+v -4 7 2
+v -5 3 6
+v 2 3 7
+v 3 7 3
+v 1 4 -6
+v -5 4 -7
+v -4 -4 -5
+v -7 -5 3
+v -1 -5 5
+v 5 0 1
+v 0 -4 -4
+vn -765 -948 -145
+vn -388 -130 -666
+vn 336 -255 -852
+vn 451 -556 -113
+vn 494 -446 642
+vn -137 -100 540
+vn -413 536 350
+vn -557 210 -126
+vn 251 934 -573
+vn 1014 240 -8
+vn 473 638 675
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 1 5 6
+
+usemtl m4
+f 1 6 7
+
+usemtl m5
+f 1 7 8
+
+usemtl m6
+f 1 8 2
+
+usemtl m7
+f 2 8 9
+
+usemtl m8
+f 2 9 3
+
+usemtl m9
+f 3 9 10
+
+usemtl m10
+f 3 10 4
+
+usemtl m11
+f 4 10 5
+
+usemtl m12
+f 5 10 11
+
+usemtl m13
+f 5 11 6
+
+usemtl m14
+f 6 11 7
+
+usemtl m15
+f 7 11 9
+
+usemtl m16
+f 7 9 8
+
+usemtl m17
+f 10 9 11
+

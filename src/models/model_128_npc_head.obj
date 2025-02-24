@@ -1,0 +1,94 @@
+mtllib 128.mtl
+o 128
+v -26 22 48
+v -20 28 48
+v -20 32 48
+v -30 22 48
+v -20 16 48
+v -20 12 48
+v -12 16 48
+v -12 12 48
+v -6 22 48
+v -2 22 48
+v -12 28 48
+v -12 32 48
+v -26 -54 0
+v -22 -54 6
+v -18 -26 36
+v -22 -24 34
+vn 138 -85 -570
+vn 0 0 -768
+vn 0 0 -768
+vn -140 72 -969
+vn 0 0 -768
+vn 0 0 -768
+vn 0 0 -768
+vn 0 0 -768
+vn 0 0 -768
+vn 0 0 -768
+vn 0 0 -768
+vn 0 0 -768
+vn -151 141 -150
+vn 145 -150 151
+vn -194 188 -367
+vn 187 -175 381
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 1 3 4
+
+usemtl m2
+f 1 4 5
+
+usemtl m3
+f 5 4 6
+
+usemtl m4
+f 5 6 7
+
+usemtl m5
+f 7 6 8
+
+usemtl m6
+f 7 8 9
+
+usemtl m7
+f 9 8 10
+
+usemtl m8
+f 9 10 11
+
+usemtl m9
+f 11 10 12
+
+usemtl m10
+f 11 12 2
+
+usemtl m11
+f 2 12 3
+
+usemtl m12
+f 13 14 15
+
+usemtl m13
+f 13 15 16
+
+usemtl m14
+f 13 16 14
+
+usemtl m15
+f 14 16 15
+
+usemtl m16
+f 15 16 1
+
+usemtl m17
+f 15 1 4
+
+usemtl m18
+f 15 4 16
+
+usemtl m19
+f 16 4 1
+

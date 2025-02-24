@@ -1,0 +1,42 @@
+mtllib 930.mtl
+o 930
+v -64 0 64
+v 64 240 -64
+v -64 0 -64
+v -48 0 -64
+v 64 224 -64
+v -48 0 48
+v 64 0 48
+v 64 0 64
+vn -225 -240 -225
+vn 31 -240 287
+vn -225 -120 256
+vn 228 114 512
+vn 740 228 484
+vn 228 228 228
+vn 256 114 228
+vn 512 -120 -225
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 3 2 4
+
+usemtl m2
+f 4 2 5
+
+usemtl m3
+f 4 5 6
+
+usemtl m4
+f 6 5 7
+
+usemtl m5
+f 7 5 8
+
+usemtl m6
+f 8 5 2
+
+usemtl m7
+f 8 2 1
+

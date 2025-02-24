@@ -1,0 +1,4 @@
+newmtl m0
+map_Kd textures/mossydamage.png
+newmtl m1
+map_Kd textures/mossydamage.png

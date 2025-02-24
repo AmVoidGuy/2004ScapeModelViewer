@@ -1,0 +1,96 @@
+mtllib 1056.mtl
+o 1056
+v 6 4 -64
+v 11 4 -34
+v 50 4 -64
+v 42 4 4
+v 64 4 4
+v 64 4 -64
+v -20 4 4
+v 3 4 42
+v 42 0 4
+v 57 4 42
+v 64 4 42
+v 57 0 42
+v 64 0 42
+v 3 0 42
+v -20 0 4
+v 11 0 -34
+v 6 0 -64
+vn -506 -256 -84
+vn -451 -1024 119
+vn 0 -1024 0
+vn -59 -1280 -278
+vn 0 -768 0
+vn 0 -256 0
+vn -615 -256 189
+vn -80 -512 -634
+vn -118 0 -556
+vn -476 -256 -444
+vn 0 -512 -512
+vn -238 0 -606
+vn 0 0 -256
+vn -40 0 -317
+vn -636 0 -105
+vn -902 0 238
+vn -253 0 -42
+usemtl m0
+f 1 2 3
+
+usemtl m1
+f 3 2 4
+
+usemtl m2
+f 3 4 5
+
+usemtl m3
+f 3 5 6
+
+usemtl m4
+f 2 7 8
+
+usemtl m5
+f 2 8 4
+
+usemtl m6
+f 4 8 9
+
+usemtl m7
+f 4 9 10
+
+usemtl m8
+f 4 10 11
+
+usemtl m9
+f 4 11 5
+
+usemtl m10
+f 10 9 12
+
+usemtl m11
+f 10 12 11
+
+usemtl m12
+f 11 12 13
+
+usemtl m13
+f 9 8 14
+
+usemtl m14
+f 14 8 15
+
+usemtl m15
+f 15 8 7
+
+usemtl m16
+f 15 7 16
+
+usemtl m17
+f 16 7 2
+
+usemtl m18
+f 16 2 1
+
+usemtl m19
+f 16 1 17
+
