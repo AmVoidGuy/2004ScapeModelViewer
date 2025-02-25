@@ -222,47 +222,20 @@ export class ModelViewer {
 
     async getModelList() {
         try {
-            const modelsDir = 'models/';  
-            const response = await fetch(modelsDir, {mode: 'cors'});
-
+            const modelsDir = 'models/models.json'; 
+            const response = await fetch(modelsDir);
+    
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
-
-            const parser = new DOMParser();
-            const htmlText = await response.text();
-            const html = parser.parseFromString(htmlText, 'text/html');
-
-            const modelFiles = [];
-            const links = html.querySelectorAll('a'); 
-
-            for (let i = 0; i < links.length; i++) {
-                const filename = links[i].href.split('/').pop();
-                const fileExtension = filename.split('.').pop();
-
-                if (fileExtension === 'obj') {
-                    const baseName = filename.replace('.obj', '');
-                    const mtlFile = `${baseName}.mtl`;
-
-                    const mtlExists = Array.from(links).some(link => link.href.endsWith(mtlFile));
-
-                    if (mtlExists) {
-                        modelFiles.push({
-                            name: baseName,
-                            obj: filename,
-                            mtl: mtlFile
-                        });
-                    } else {
-                        console.warn(`MTL file not found for ${filename}`);
-                    }
-                }
-            }
-
+    
+            const modelFiles = await response.json(); 
+    
             return modelFiles;
-
+    
         } catch (error) {
             console.error("Could not fetch model list:", error);
-            return []; 
+            return [];
         }
     }
 
